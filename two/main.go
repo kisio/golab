@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	var name string = "derrick"
-	var role string = "devops engineer"
+	var name string = "John Doe"
+	var role string = "Software Engineer"
 	fmt.Print("hello ")
 	fmt.Print("human \n")
 	fmt.Println("hello humans")

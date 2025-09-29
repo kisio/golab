@@ -3,26 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	// //string
-	// var name string = "jane Does"
-	// fmt.Println(name)
-	// //type inference
-	// var sName = "john Smith"
-	// fmt.Println(sName)
-
-	// var lName string = "mike james"
-	// fmt.Println(name, sName, lName)
-
-	// name = "derrick"
-	// sName = "selempo"
-	// lName = "kisio"
-
-	// fmt.Println(name, sName, lName)
-
-	// //short declaration
-	// //cant be used outside of a function
-	// nName := "james bond"
-	// fmt.Println(nName)
 
 	//int
 	// var age int = 26
