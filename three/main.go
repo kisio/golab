@@ -10,7 +10,7 @@ func main() {
 	fmt.Println(ages, len(ages))
 
 	//shorthand
-	names := [3]string{"derrick", "scarlett", "mary"}
+	names := [3]string{"John", "Jane", "Alice"}
 	fmt.Println(names, len(names))
 
 	//slices
@@ -25,6 +25,6 @@ func main() {
 	rangeTwo := names[1:]
 	fmt.Println(rangeOne, rangeTwo)
 
-	rangeOne = append(rangeOne, "Randall")
+	rangeOne = append(rangeOne, "Bob")
 	fmt.Println(rangeOne)
 }
